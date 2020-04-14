@@ -1,0 +1,7 @@
+Create a file called vi /etc/resolv.conf write fill in the contents:
+
+nameserver <ip-of-your-nameserver>
+For example if your want to use googles dns-service:
+
+nameserver 8.8.8.8
+nameserver 8.8.4.4
